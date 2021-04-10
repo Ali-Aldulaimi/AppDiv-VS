@@ -14,7 +14,7 @@ int main() {
 
 	a = get_int( MIN , MAX);
 
-	parscal_triangle(a);
+	parscal_triangle(a); // calling pascal_triangle function .
 
 	return 0;
 }
